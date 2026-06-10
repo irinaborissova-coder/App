@@ -1,0 +1,6 @@
+{
+  "name": "Career Copilot",
+  "description": "An interactive, hyper-targeted executive career advisor, resume tailorer, and interview simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
